@@ -29,4 +29,7 @@ Abstract: In the finance world stock trading is one of the most important activi
 ![image](https://user-images.githubusercontent.com/70426630/146182967-437395f5-e20a-4e9c-97ef-1f6090363911.png)
 
 
+To run the project on localhost just use the command 
+
+Python manage.py runserver
 
